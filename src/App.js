@@ -26,7 +26,7 @@ export default function App() {
         nombre={elemento.title}
         seleccionar={() => clicked(elemento.id)}
         seleccionado={elemento.isSelected}
-        item={elemento.items.map(item => item.name)}
+        items={elemento.items.map(item => item)}
       />
     )
   })
@@ -36,11 +36,14 @@ export default function App() {
       <h1 className="titulo">¡Crea tu Alpaca!</h1>
       <div className="cuerpo">
         <img 
-          src="alpaca/nose.png"
+          className="imagen"
+          src={alpaca}
           alt="your_alpaca"
         />
-        <h2>Categorías</h2>
-        {categorias}
+        <div className="categorias">
+          <h2 className="categorias-titulo">Categorías</h2>
+          {categorias}
+        </div>
       </div>
     </div>
   )

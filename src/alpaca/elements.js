@@ -3,168 +3,168 @@ export default {
 	"elements": [
 		{
 			"id": "001",
-			"title": "accesories",
+			"title": "Accesorios",
 			"isSelected": false,
 			"items": [
 				{
 					"id": "001a",
-					"name": "earings",
+					"name": "aretes",
 					"isSelected": false,
 				},
 				{
 					"id": "001b",
-					"name": "flower",
+					"name": "flor",
 					"isSelected": false,
 				},
 				{
 					"id": "001c",
-					"name": "glasses",
+					"name": "lentes",
 					"isSelected": false,
 				},
 				{
 					"id": "001d",
-					"name": "headphone",
+					"name": "auriculares",
 					"isSelected": false,
 				}
 			]
 		},
 		{
 			"id": "002",
-			"title": "backgrounds",
+			"title": "Fondos",
 			"isSelected": false,
 			"items": [
 				{
 					"id": "002a",
-					"name": "blue50",
+					"name": "azul 50",
 					"isSelected": false,
 				},
 				{
 					"id": "002b",
-					"name": "blue60",
+					"name": "azul 60",
 					"isSelected": false,
 				},
 				{
 					"id": "002c",
-					"name": "blue70",
+					"name": "azul 70",
 					"isSelected": false,
 				},
 				{
 					"id": "002d",
-					"name": "darkblue30",
+					"name": "azul oscuro 30",
 					"isSelected": false,
 				},
 				{
 					"id": "002e",
-					"name": "darkblue50",
+					"name": "azul oscuro 50",
 					"isSelected": false,
 				},
 				{
 					"id": "002f",
-					"name": "darkblue70",
+					"name": "azul oscuro 70",
 					"isSelected": false,
 				},
 				{
 					"id": "002g",
-					"name": "green50",
+					"name": "verde 50",
 					"isSelected": false,
 				},
 				{
 					"id": "002h",
-					"name": "green60",
+					"name": "verde 60",
 					"isSelected": false,
 				},
 				{
 					"id": "002i",
-					"name": "green70",
+					"name": "verde 70",
 					"isSelected": false,
 				},
 				{
 					"id": "002j",
-					"name": "grey40",
+					"name": "gris 40",
 					"isSelected": false,
 				},
 				{
 					"id": "002k",
-					"name": "grey70",
+					"name": "gris 70",
 					"isSelected": false,
 				},
 				{
 					"id": "002l",
-					"name": "grey80",
+					"name": "gris 80",
 					"isSelected": false,
 				},
 				{
 					"id": "002m",
-					"name": "red50",
+					"name": "rojo 50",
 					"isSelected": false,
 				},
 				{
 					"id": "002n",
-					"name": "red60",
+					"name": "rojo 60",
 					"isSelected": false,
 				},
 				{
 					"id": "002o",
-					"name": "red70",
+					"name": "rojo 70",
 					"isSelected": false,
 				},
 				{
 					"id": "002p",
-					"name": "yellow50",
+					"name": "amarillo 50",
 					"isSelected": false,
 				},
 				{
 					"id": "002q",
-					"name": "yellow60",
+					"name": "amarillo 60",
 					"isSelected": false,
 				},
 				{
 					"id": "002r",
-					"name": "yellow70",
+					"name": "amarillo 70",
 					"isSelected": false,
 				}
 			]
 		},
 		{
 			"id": "003",
-			"title": "ears",
+			"title": "Orejas",
 			"isSelected": false,
 			"items": [
 				{
 					"id": "003a",
-					"name": "default",
+					"name": "predeterminado",
 					"isSelected": false,
 				},
 				{
 					"id": "003b",
-					"name": "tilt-backward",
+					"name": "curvado atrás",
 					"isSelected": false,
 				},
 				{
 					"id": "003c",
-					"name": "tilt-forward",
+					"name": "curvado adelante",
 					"isSelected": false,
 				}
 			]
 		},
 		{
 			"id": "004",
-			"title": "eyes",
+			"title": "Ojos",
 			"isSelected": false,
 			"items": [
 				{
 					"id": "004a",
-					"name": "default",
+					"name": "predeterminado",
 					"isSelected": false,
 				},
 				{
 					"id": "004b",
-					"name": "angry",
+					"name": "molesto",
 					"isSelected": false,
 				},
 				{
 					"id": "004c",
-					"name": "naughty",
+					"name": "travieso",
 					"isSelected": false,
 				},
 				{
@@ -174,24 +174,24 @@ export default {
 				},
 				{
 					"id": "004e",
-					"name": "smart",
+					"name": "inteligente",
 					"isSelected": false,
 				},
 				{
 					"id": "004f",
-					"name": "star",
+					"name": "estrellado",
 					"isSelected": false,
 				}
 			]
 		},
 		{
 			"id": "005",
-			"title": "hair",
+			"title": "Cabello",
 			"isSelected": false,
 			"items": [
 				{
 					"id": "005a",
-					"name": "default",
+					"name": "predeterminado",
 					"isSelected": false,
 				},
 				{
@@ -201,123 +201,123 @@ export default {
 				},
 				{
 					"id": "005c",
-					"name": "curls",
+					"name": "ondulado",
 					"isSelected": false,
 				},
 				{
 					"id": "005d",
-					"name": "elegant",
+					"name": "elegante",
 					"isSelected": false,
 				},
 				{
 					"id": "005e",
-					"name": "fancy",
+					"name": "lujoso",
 					"isSelected": false,
 				},
 				{
 					"id": "005f",
-					"name": "quiff",
+					"name": "copete",
 					"isSelected": false,
 				},
 				{
 					"id": "005g",
-					"name": "short",
+					"name": "corto",
 					"isSelected": false,
 				}
 			]
 		},
 		{
 			"id": "006",
-			"title": "leg",
+			"title": "Piernas",
 			"isSelected": false,
 			"items": [
 				{
 					"id": "006a",
-					"name": "default",
+					"name": "predeterminado",
 					"isSelected": false,
 				},
 				{
 					"id": "006b",
-					"name": "bubble-tea",
+					"name": "te de burbujas",
 					"isSelected": false,
 				},
 				{
 					"id": "006c",
-					"name": "cookie",
+					"name": "galleta",
 					"isSelected": false,
 				},
 				{
 					"id": "006d",
-					"name": "game-console",
+					"name": "videojuego",
 					"isSelected": false,
 				},
 				{
 					"id": "006e",
-					"name": "tilt-backward",
+					"name": "inclinado atrás",
 					"isSelected": false,
 				},
 				{
 					"id": "006f",
-					"name": "tilt-forward",
+					"name": "inclinado adelante",
 					"isSelected": false,
 				}
 			]
 		},
 		{
 			"id": "007",
-			"title": "mouth",
+			"title": "Boca",
 			"isSelected": false,
 			"items": [
 				{
 					"id": "007a",
-					"name": "default",
+					"name": "predeterminado",
 					"isSelected": false,
 				},
 				{
 					"id": "007b",
-					"name": "astonished",
+					"name": "asombrado",
 					"isSelected": false,
 				},
 				{
 					"id": "007c",
-					"name": "eating",
+					"name": "comiendo",
 					"isSelected": false,
 				},
 				{
 					"id": "007d",
-					"name": "laugh",
+					"name": "riendo",
 					"isSelected": false,
 				},
 				{
 					"id": "007e",
-					"name": "tongue",
+					"name": "lengua",
 					"isSelected": false,
 				}
 			]
 		},
 		{
 			"id": "008",
-			"title": "neck",
+			"title": "Cuello",
 			"isSelected": false,
 			"items": [
 				{
 					"id": "008a",
-					"name": "default",
+					"name": "predeterminado",
 					"isSelected": false,
 				},
 				{
 					"id": "008b",
-					"name": "bend-backward",
+					"name": "curvado atrás",
 					"isSelected": false,
 				},
 				{
 					"id": "008c",
-					"name": "bend-forward",
+					"name": "curvado adelante",
 					"isSelected": false,
 				},
 				{
 					"id": "008d",
-					"name": "thick",
+					"name": "grueso",
 					"isSelected": false,
 				}
 			]

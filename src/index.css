@@ -18,10 +18,67 @@ code {
   border-radius: 20px;
   background-color: rgb(238, 236, 238);
   color: rgb(16, 24, 53);
+  height: 430px;
 }
 
 .cuerpo {
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
+}
+
+.imagen {
+  width: 250px;
+  height: auto;
+  border: 3px solid;
+}
+
+.categorias {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 420px;
+}
+
+.categorias-titulo {
+  margin-top: 0px;
+}
+
+.categoriaYDisenos {
+  display: flex;
+}
+
+.categoria-on, .categoria-off {
+  border: none;
+  font-size: medium;
+  font-weight: 500;
+  padding: 4px;
+  width: max-content;
+  cursor: pointer;
+}
+
+.categoria-on {
+  background-color: rgb(16, 24, 53);
+  color: rgb(238, 236, 238);
+}
+
+.disenos {
+  margin: 5px 0px 10px 0px;
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.diseno-on, .diseno-off {
+  border: none;
+  font-size: small;
+  font-weight: 300;
+  cursor: pointer;
+}
+
+.diseno-on {
+  background-color: rgb(191, 191, 199);
 }
