@@ -18,7 +18,7 @@ code {
   border-radius: 20px;
   background-color: rgb(238, 236, 238);
   color: rgb(16, 24, 53);
-  height: 430px;
+  height: 400px;
 }
 
 .cuerpo {
@@ -27,7 +27,7 @@ code {
   justify-content: space-around;
 }
 
-.imagen {
+#alpaca-avatar {
   width: 250px;
   height: auto;
   border: 3px solid;
@@ -45,11 +45,13 @@ code {
   margin-top: 0px;
 }
 
-.categoriaYDisenos {
+.categorias-botones {
   display: flex;
+  gap: 10px;
+  border-bottom: solid 3px rgb(16, 24, 53);
 }
 
-.categoria-on, .categoria-off {
+.categorias-opciones {
   border: none;
   font-size: medium;
   font-weight: 500;
@@ -58,9 +60,10 @@ code {
   cursor: pointer;
 }
 
-.categoria-on {
-  background-color: rgb(16, 24, 53);
+.categorias-opciones:hover {
+  background-color: rgb(16, 24, 53); 
   color: rgb(238, 236, 238);
+  transform: scale(1.2);
 }
 
 .disenos {
@@ -72,13 +75,15 @@ code {
   gap: 8px;
 }
 
-.diseno-on, .diseno-off {
+.diseno-boton {
   border: none;
+  padding: 7px;
   font-size: small;
   font-weight: 300;
   cursor: pointer;
 }
 
-.diseno-on {
-  background-color: rgb(191, 191, 199);
+.diseno-boton:hover {
+  transform: scale(1.2);
+  background-color: rgb(238, 236, 238);
 }
